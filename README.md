@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Neeraj-364
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data  Analyst
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @Neeraj-364
+👀 I’m interested in innovating things.
+🌱 I’m currently working with PowerBi,Python,Excel
+💞️ I’m looking to contribute on GitHub.
+📫 How to reach me neerajips796@gmail.com
+I’m currently open for an Intern or a new job opportunity
 
 <!---
 Neeraj-364/Neeraj-364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
